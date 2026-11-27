@@ -24,6 +24,7 @@ Getting Started
 
 SLAPI binary will be generated in `src/slapi`.
 
+
 Configuration files
 ----------------
 
